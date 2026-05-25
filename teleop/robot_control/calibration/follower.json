@@ -1,0 +1,58 @@
+{
+    "motor_0": {
+        "motor_id": 0,
+        "joint_name": "shoulder_pan",
+        "homing_offset": 4114.0,
+        "range_min": -1981.0,
+        "range_max": 2068.0
+    },
+    "motor_1": {
+        "motor_id": 1,
+        "joint_name": "shoulder_lift",
+        "homing_offset": 1401.0,
+        "range_min": -2413.0,
+        "range_max": 2331.0
+    },
+    "motor_2": {
+        "motor_id": 2,
+        "joint_name": "elbow_flex",
+        "homing_offset": 2648.0,
+        "range_min": -1895.0,
+        "range_max": 2280.0
+    },
+    "motor_3": {
+        "motor_id": 3,
+        "joint_name": "wrist_flex",
+        "homing_offset": 4138.0,
+        "range_min": -2134.0,
+        "range_max": 2180.0
+    },
+    "motor_4": {
+        "motor_id": 4,
+        "joint_name": "wrist_roll",
+        "homing_offset": 4438.0,
+        "range_min": -4021.0,
+        "range_max": 4060.0
+    },
+    "motor_5": {
+        "motor_id": 5,
+        "joint_name": "gripper",
+        "homing_offset": 424.0,
+        "range_min": -2255.0,
+        "range_max": 1370.0
+    },
+    "motor_6": {
+        "motor_id": 6,
+        "joint_name": "shoulder_lift",
+        "homing_offset": 2171.0,
+        "range_min": -2293.0,
+        "range_max": 2420.0
+    },
+    "motor_7": {
+        "motor_id": 7,
+        "joint_name": "elbow_flex",
+        "homing_offset": 3085.0,
+        "range_min": -2300.0,
+        "range_max": 1935.0
+    }
+}
